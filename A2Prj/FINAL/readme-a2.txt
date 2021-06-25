@@ -1,0 +1,10 @@
+Eclipse IDE for Java Developers
+Build id: 	20200615-1200
+
+OS Name:	Microsoft Windows 10 Pro	Version	10.0.19041 Build 19041
+		macOS Catalina			Version 10.15.7
+
+Alex Keth
+CSUS ID: 219271755
+
+- Some buttons shrink and lose their padding.
